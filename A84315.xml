@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extraordinary nevves from Constantinople, November the 27. 1641. Being a letter sent from thence to the Lord Dominicco, Mugliano, Florantino, dated the second of September. 1641. Conteyning a most certaine and true relation of the late and strange visions, with the aspects of two commetts or blazing starres with forked tayles. Appearing to the great Turke, and perpendicularly hanging over his seraglio in Constantinople, as also his incredible dreames, together with their interpretation by the wisest of his divines, astrologers, and magicians. Written in French, / and faithfully translated by W. C.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84315</idno>
+            <idno type="STC">Wing E3933</idno>
+            <idno type="STC">Thomason E180_4</idno>
+            <idno type="STC">ESTC R7150</idno>
+            <idno type="EEBO-CITATION">99873089</idno>
+            <idno type="PROQUEST">99873089</idno>
+            <idno type="VID">125543</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Extraordinary nevves from Constantinople, November the 27. 1641. Being a letter sent from thence to the Lord Dominicco, Mugliano, Florantino, dated the second of September. 1641. Conteyning a most certaine and true relation of the late and strange visions, with the aspects of two commetts or blazing starres with forked tayles. Appearing to the great Turke, and perpendicularly hanging over his seraglio in Constantinople, as also his incredible dreames, together with their interpretation by the wisest of his divines, astrologers, and magicians. Written in French, / and faithfully translated by W. C.</title>
+                  <author>W. C., translator.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Constable, and Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens --  Early works to 1800.</term>
+               <term>Comets --  1641 --  Early works to 1800.</term>
+               <term>Istanbul (Turkey) --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125543:1"/>
+            <pb facs="tcp:125543:1" rendition="simple:additions"/>
+            <p>EXTRAORDINARY NEVVES from Conſtantinople, <hi>November</hi> the 27. 1641.</p>
+            <p>Being a Letter ſent from thence to the Lord <hi>Dominicco, Mugliano, Florantino,</hi> dated the ſecond of <hi>September.</hi> 1641.</p>
+            <p>Conteyning a moſt certaine and true Relation of the late and ſtrange viſions, with the aſpects of two Commetts or blazing Starres with forked Tayles.</p>
+            <p>Appearing to the great Turke, and perpendicular<g ref="char:EOLhyphen"/>ly hanging over his <hi>Seraglio</hi> in <hi>Conſtantinople,</hi> as alſo his incredible dreames, together with their Interpre<g ref="char:EOLhyphen"/>tation by the wiſeſt of his Divines, Aſtro<g ref="char:EOLhyphen"/>logers, and Magicians.</p>
+            <p>Written in French, and faithfully Tranſlated by <hi>W.C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Constable,</hi> and <hi>Iohn Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125543:2"/>
+            <pb facs="tcp:125543:2"/>
+            <head>Extraordinary newes from Conſtantinople, <hi>Novemb.</hi> 27. 1641 being a Letter ſent from thence to the Lord <hi>Dominico, Mugliano, Florantino,</hi> dated the ſecond of <hi>Septemb.</hi> 6. 1641.</head>
+            <p>IT is a wonder to all the world, that in the ſelfeſame time, that the Imperiall Councell was in Labour to Accommodate the King of <hi>Hungary</hi> with the great Turke, there were publiſhed throughout all <hi>Germany,</hi> Prognoſtications of the Ruine of the Turkiſh Empire, by that of <hi>Germany,</hi> ſome tooke theſe impreſſions at the firſt ſight, onely for dreames, as their whimſie braines ap<g ref="char:EOLhyphen"/>prehend it, and their bould Intepretations accompanyed with ſo many circumſtances, of which wee have received other newes, but by the ſelfe ſame writing, ſo that many imputed all to be but the Ruings of ſome cract braines, But the moſt aviſed believed that it was an Artifice, though ſomething groſſe, to appeaſe the diſcontentment of thoſe who found it ſtrange to reduce and unite the King of <hi>Hungary</hi> to the Turke, to oppoſe which as here<g ref="char:EOLhyphen"/>tofore it hath beene ſaid, the Empire was Eſtabliſhed: be it what it will, <hi>Italy</hi> and <hi>Germany,</hi> having both had their
+<pb n="2" facs="tcp:125543:3"/>part in this newes, I will give it you, ſuch as it was ſent to us under the name of a Letter from <hi>Conſtantinople,</hi> to the Lord <hi>Dominico, Mugliano, Florantino,</hi> dated the ſecond of <hi>September</hi> 1641.</p>
+            <p>From the tenth of <hi>Auguſt</hi> laſt, to the 13. of the ſame Moneth there was ſo furious a winde in the plaines neere unto <hi>Conſtantinople,</hi> that it did diſroote and blow up many Trees, and ruinated a great number of ſtately Edifices, and amongſt thoſe perſons who received great loſſe, it is per<g ref="char:EOLhyphen"/>ticularly obſerved, that foure of the Turkes grand Couri<g ref="char:EOLhyphen"/>lers, and a Captaine of his Troopes, were by the vio<g ref="char:EOLhyphen"/>ence of this Tempeſt, throwne into deepe precipices, and were never ſince ſeene: This turbulent ſtorme was ac<g ref="char:EOLhyphen"/>companied with ſo many fearefull Thunders and Light<g ref="char:EOLhyphen"/>nings, that it killed many of his Ianizaryes, not farre from his owne <hi>Seraglio,</hi> and this Lightning and Thunder was followed with ſo great a Raine, that a good part of the Territories of <hi>Conſtantinople</hi> were ſwallowed up, and the fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lds converted into a Marſh or Bog; all this was made the more fearefull and deſtroyable by the Aſpect of two Commetts or blaſing ſtarres with double tailes, or forked poſteriums.</p>
+            <p>The one of which appeared from two of the clocke in the morning untill midnight, juſt over againſt the great Turkes <hi>Seraglio,</hi> and the other over the Church or Moſque of <hi>Sancta Sophia,</hi> from three of the clocke in the afternoone till five a clocke the next morning: theſe ſtrange ſights did affright and amaze all the Turkes in generall, but now behold what more troubled the great Turke in particu<g ref="char:EOLhyphen"/>lar.</p>
+            <p>The Twelft of the ſame moneth, about three of the clocke in the Morning, the great Turke dreamt, that hee was ſeized upon by many Lyons, the greateſt of which ha<g ref="char:EOLhyphen"/>ving
+<pb n="3" facs="tcp:125543:3"/>bitten him upon the breaſt, his excellency made ſo great a cry and noiſe, that all his guardes run up to him in Armes, beleeving that ſome ſuddaine diſaſter or miſfor<g ref="char:EOLhyphen"/>tune had befallen him; But the great <hi>Turke</hi> commanded them all to retire, after he had aſſured them, that he had received no harme, and ſo his excellency pleaſed to fall aſleepe againe, but upon breake of day he had a ſecond vi<g ref="char:EOLhyphen"/>ſion of many <hi>Centaures,</hi> who made and fought a bloody Battell one againſt the other, after this there came from the Eaſt a great number of <hi>Griffens,</hi> who fell upon the <hi>Cen<g ref="char:EOLhyphen"/>taures</hi> with ſuch a fury, that they put them all to flight, one part of them retired into Pits, and Caves to hid them<g ref="char:EOLhyphen"/>ſelves, and the other joyning themſelves unto the <hi>Griſſens,</hi> killing the moſt part of the <hi>Centaures,</hi> who had retired themſelves into pitts and Caves, the grand <hi>Turke</hi> ſeeing this diſorder, would needes aſſiſt them, with a flaming ſword in his hand, but as he lift up his ſword againſt the <hi>Griffens,</hi> the Eagle conducting them, diſarmed him, upon which the great <hi>Turke</hi> being ſurpriſed, awakens with ſo great confuſion and trouble, at theſe viſions and apparari<g ref="char:EOLhyphen"/>ons, that he muſt needes know the ſignification of theſe, and the foregoeing commets, for the accompliſhment of which he commandes, all his Divines, Aſtrologers, and Magicians, and other the wifeſt men of his confines, who undertake to forefee thinges to come, to make their ad<g ref="char:EOLhyphen"/>dreſſe to <hi>Coustantinople,</hi> within tenne dayes after the publi<g ref="char:EOLhyphen"/>cation of this his decree, under paine of perpetuall baniſh<g ref="char:EOLhyphen"/>ment from out his Empire, which Divines came at the time prefixt, in great numbers, unto whom his excellency having deelared punctually his viſions, and the appearing of the two blazing commetts.</p>
+            <p>Hee expresſly commanded them, to tell the explicati<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:125543:4"/>on within three dayes, without any diſguiſing of the truth, although he ſhould wiſh the contrary, if it might prove againſt himſelfe, at laſt they all aſſembled upon that ſubject, where after long time ſpent in the conference and diſpute, they withdrew themſelves, each apart, the bet<g ref="char:EOLhyphen"/>ter to recollect their thoughts, then conveening the ſe<g ref="char:EOLhyphen"/>cond time, they found themſelves all of one opinion, whereupon they made choice of one of the moſt ancient, and the moſt graveſt amongſt them, named <hi>Moſſa Egypſi<g ref="char:EOLhyphen"/>ano,</hi> to give a true accompt to the grand <hi>Turke,</hi> of the In<g ref="char:EOLhyphen"/>terpretation which they had agreed upon of his dreames, ſo that the third day being expired, the fornamed <hi>Moſſa Egypſiano,</hi> come to make his report to his excellency, which he did after this manner.</p>
+            <p>Our thrice invincible Lord, thy highneſſe having per<g ref="char:EOLhyphen"/>mitted us to relate unto you without diſimulation, the true explication, of the two cometts and viſions, which thou haſt propounded unto us, after we had exactly conſidered, and calculated the conjunction of the pla<g ref="char:EOLhyphen"/>nets, with thy excellencies, Nativity, which gave us no ſmall in ſight in this our divination.</p>
+            <p>Let thy highneſſe know, but be not aſtoniſhed, ſince that the evill influences of the ſtarres, may yet be our ma<g ref="char:EOLhyphen"/>ſterd by thy wiſdome) that the preſent eſtate of the Caele<g ref="char:EOLhyphen"/>ſtiall ſignes, following the opinion, of <hi>Ptolomee,</hi> and of all the Aſtrologers, who joyntly accord, it to ſignifie a dimu<g ref="char:EOLhyphen"/>nition of thy ſtates, and a rebellion of thy ſubjects.</p>
+            <p>Firſt, For the Lions which thou ſaweſt in thy ſleepe, they repreſent the Chriſtians, who joyning themſelves together, ſhall unanimouſly oppoſe themſelves againſt thy highneſſe, and ſhall become Maſters in a ſhort time of the moſt part of thy Kingdomes.</p>
+            <p>Secondly, The Lion which ſeized upon thy breaſt, ſhall
+<pb n="5" facs="tcp:125543:4"/>be an Emperour of the Chriſtians, who ſhall chaſe the from thy throne.</p>
+            <p>Thirdly, That the <hi>Centaures,</hi> which fought each againſt another, doth demonſtrate thy ſubjects, who ſhall beate one, another, and ſhall deſtroy themſelves by rebellious and civill warre.</p>
+            <p>Fourthly, that the <hi>Griffens</hi> ſignifie, a great army of the ſame Chriſtians, who ſhall overclog, and ſuppreſſe thee, The head and Cheiftaine of which, repreſented by the Eagle, who hath taken away thy ſword, which thou didſt hold in thy hand, ſhall deprive the of thy Imperiall ſeate.</p>
+            <p>Fiftly, that the two commets with their double Tailes, repreſent the power of the ſame Emperour.</p>
+            <p>And that which yet more confirmes us in this opinion is, that they have appeared over thy Seraglia, and over the principall Moſca of this City.</p>
+            <p>Know then thrice Clement Prince, that all our Ance<g ref="char:EOLhyphen"/>ſtours have beleeved, as we alſo beleeve our ſelves, that thy raigne ſhall be the laſt of the <hi>Turkes.</hi>
+            </p>
+            <p>To which muſt be added to this divination of his ſages, that as the Monarchy of the <hi>Turkes,</hi> tooke his beginning from the yeate 1300. Vnder <hi>Albert</hi> the firſt Emperour of the houſe of <hi>Auſtria,</hi> ſo it ſhall end under an Emperour of the ſame houſe, which they ſay is the King of <hi>Hungary,</hi> the moſt powerfull and the moſt happy that the Romanes have had ſince <hi>Iuliuss Caeſar.</hi>
+            </p>
+            <p>The newes in the letter addes thus much, that after this interpretation, and Paranymphe of the King of <hi>Hungary,</hi> the Diviners withdrawing themſelves, the great <hi>Turke</hi> fell into a profound meditation, &amp; amazement upon this their ſad ſentence, and ſo riſing from his ſeate, he commanded that theſe diviners ſhould be ſpeedily recalled, whom he
+<pb n="6" facs="tcp:125543:5"/>inſtantly cauſed to be impriſoned; and that the next mor<g ref="char:EOLhyphen"/>ning they ſhould make many litle houſes of ſtraw, in the forme of a Cage without a bottome; into which he ſeve<g ref="char:EOLhyphen"/>rally made them all be put, and ſoone after cauſed every one of theſe Cages to be drawn up into the Aire by foure ſtrong men; and putting fire with powder, and pitch, he made them paſſe and repaſſe many times, burning as they were upon the heades of thoſe miſerable diviners, and A<g ref="char:EOLhyphen"/>ſtrologians, who notwithſtanding were not at all hurt, no not ſo much as blackt, or ſinged by the ſmoake of the Powder, or flame of the Pitch; all which being beheld by the inhabitants of <hi>Conſtantinople,</hi> they were greatly aſto<g ref="char:EOLhyphen"/>niſhed at this miracle, inſomuch that ſome of them pro<g ref="char:EOLhyphen"/>cured themſelves to be baptized, but privately, neverthe<g ref="char:EOLhyphen"/>leſſe the grand <hi>Turke</hi> was in ſuch ſort ſurpriſed and ama<g ref="char:EOLhyphen"/>zed, that he was three dayes without giving audience, and diſpatched many poſts throughout his dominions to raiſe and Leavy men of warre, fearing leaſt the Imperialls ſhould hereafter come upon notice of this newes, to re<g ref="char:EOLhyphen"/>voke and call in queſtion, our faith and mahometan be<g ref="char:EOLhyphen"/>leife.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
